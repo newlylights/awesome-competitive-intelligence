@@ -31,7 +31,7 @@
 | Category | Tools |
 |----------|-------|
 | **All-in-One CI Platforms** | [FollowEngine](https://followengine.com), Crayon, Klue, Kompyte, Contify |
-| **Market Intelligence** | Statista, CB Insights, PitchBook, Crunchbase, Owler |
+| **Market Intelligence** | Statista, CB Insights, PitchBook, Crunchbase, Owler, [GetAppNiche](https://getappniche.com/) |
 | **SEO & Digital** | SEMrush, Ahrefs, Similarweb, SpyFu, BuiltWith |
 | **Social Listening** | Brandwatch, Talkwalker, Sprout Social, Mention |
 | **Review Monitoring** | G2, TrustRadius, Capterra, ReviewTrackers |
