@@ -33,6 +33,7 @@
 | **All-in-One CI Platforms** | [FollowEngine](https://followengine.com), Crayon, Klue, Kompyte, Contify |
 | **Market Intelligence** | Statista, CB Insights, PitchBook, Crunchbase, Owler |
 | **SEO & Digital** | SEMrush, Ahrefs, Similarweb, SpyFu, BuiltWith |
+| **Ad Intelligence** | [AdMapix](https://www.admapix.com) — Searches and analyzes competitor ad creatives across major channels for market research. |
 | **Social Listening** | Brandwatch, Talkwalker, Sprout Social, Mention |
 | **Review Monitoring** | G2, TrustRadius, Capterra, ReviewTrackers |
 | **Patent & IP** | Google Patents, PatSnap, IPlytics, Derwent |
