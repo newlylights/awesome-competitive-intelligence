@@ -30,7 +30,7 @@
 
 | Category | Tools |
 |----------|-------|
-| **All-in-One CI Platforms** | [FollowEngine](https://followengine.com), Crayon, Klue, Kompyte, Contify |
+| **All-in-One CI Platforms** | [FollowEngine](https://followengine.com), Crayon, Klue, Kompyte, Contify, [EarlyLore](https://earlylore.com) |
 | **Market Intelligence** | Statista, CB Insights, PitchBook, Crunchbase, Owler |
 | **SEO & Digital** | SEMrush, Ahrefs, Similarweb, SpyFu, BuiltWith |
 | **Social Listening** | Brandwatch, Talkwalker, Sprout Social, Mention |
