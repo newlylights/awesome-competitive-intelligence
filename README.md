@@ -32,7 +32,7 @@
 |----------|-------|
 | **All-in-One CI Platforms** | [FollowEngine](https://followengine.com), Crayon, Klue, Kompyte, Contify |
 | **Market Intelligence** | Statista, CB Insights, PitchBook, Crunchbase, Owler |
-| **SEO & Digital** | SEMrush, Ahrefs, Similarweb, SpyFu, BuiltWith |
+| **SEO & Digital** | SEMrush, Ahrefs, Similarweb, SpyFu, BuiltWith, [Vaneform](https://vaneform.com) |
 | **Social Listening** | Brandwatch, Talkwalker, Sprout Social, Mention |
 | **Review Monitoring** | G2, TrustRadius, Capterra, ReviewTrackers |
 | **Patent & IP** | Google Patents, PatSnap, IPlytics, Derwent |
